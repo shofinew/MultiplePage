@@ -1,0 +1,39 @@
+*{
+      margin: 0;
+      
+}
+nav{
+      display: flex;
+      justify-content: space-between;
+      background-color: #00ffff3d;
+      align-items: center;
+      color: rebeccapurple; 
+      font-weight: 600;     
+}
+
+nav h2 {
+      margin-left: 30px;
+}
+
+
+ul{
+      display: flex;
+}
+
+
+ul > li {
+      list-style: none;
+      padding: 10px ;
+}
+
+
+ul li a{
+       text-decoration: none;
+       padding: 10px 15px;
+}
+
+
+ul li a:hover{
+      background-color: black;
+      color: white;
+}
