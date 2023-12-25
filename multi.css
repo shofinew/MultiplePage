@@ -76,3 +76,24 @@ header{
       padding: 5px;
       border: none;
 }
+
+main{
+      background-color: #97cefd;
+}
+
+#latest_video_perent{
+      display: flex;
+}
+
+#main_section{
+      width: 1000px;
+     margin: 0 auto;
+     padding: 20px 0;
+}
+
+span{
+      background-color: aquamarine;
+      color: red;
+      border-radius: 5px;
+      padding: 5px 10px;
+}
