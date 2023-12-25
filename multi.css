@@ -6,11 +6,13 @@
 nav{
       display: flex;
       justify-content: space-between;
-      background-color: #00ffff3d;
+      background-color: #00ffffcc;
       align-items: center;
       color: rebeccapurple; 
       font-weight: 600;  
-      border-bottom: 2px solid #fc020273;   
+      border-bottom: 2px solid #fc020273;  
+      position: sticky; 
+      top: 0;
 }
 
 nav h2 {
