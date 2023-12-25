@@ -166,3 +166,47 @@ span{
 .numbering a:first-child{
       background-color: #0202fd;
 }
+
+#footer_section{
+      background-color: #6bf3f3;
+      display: flex;
+      height: 300px;
+}
+
+.footer_fst_item{
+      height: 200px;
+      width: 400px;
+      margin-top: 20px;
+}
+
+.footer_fst_item > p{
+      text-align: justify;
+      padding-bottom: 18px;
+}
+
+.footer_seng_item{
+      margin-top: 20px;
+}
+
+.footer_seng_item p{ 
+      text-decoration: none;
+      padding: 10px;
+      font-weight: 600;
+}
+
+.footer_fst_item h1{
+      padding-bottom: 10px;
+}
+
+.footer_seng_item h3{
+      padding-bottom: 5px;
+}
+
+
+.footer_seng_item a{
+      text-decoration: none;
+}
+
+.footer_seng_item a:hover{
+      color: red;
+}
